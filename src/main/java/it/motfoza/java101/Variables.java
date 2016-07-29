@@ -27,20 +27,20 @@ public class Variables {
         System.out.println(bool);
 
         byte b2 = 0;
-        if (b1== b2) {
+        if (b1 == b2) {
             System.out.println("OK");
         } else {
             System.out.println(" ;( ");
         }
         short s2 = 0;
-        if (s1== s2) {
+        if (s1 == s2) {
             System.out.println("OK");
         } else {
             System.out.println(" ;( ");
         }
 
-       int i2 = 0;
-        if (i1== i2) {
+        int i2 = 0;
+        if (i1 == i2) {
             System.out.println("OK");
         } else {
             System.out.println(" ;( ");
@@ -53,19 +53,19 @@ public class Variables {
             System.out.println(" ;( ");
         }
         char c2 = 0;
-        if (c1== c2) {
+        if (c1 == c2) {
             System.out.println("OK");
         } else {
             System.out.println(" ;( ");
         }
-       float f2 = 0.0f;
-        if (f1== f2) {
+        float f2 = 0.0f;
+        if (f1 == f2) {
             System.out.println("OK");
         } else {
             System.out.println(" ;( ");
         }
         double d2 = 0.0d;
-        if (d1== d2) {
+        if (d1 == d2) {
             System.out.println("OK");
         } else {
             System.out.println(" ;( ");
@@ -77,7 +77,7 @@ public class Variables {
             System.out.println(" ;( ");
         }
         Object o2 = null;
-        if (o2== o1) {
+        if (o2 == o1) {
             System.out.println("OK");
         } else {
             System.out.println(" ;( ");
