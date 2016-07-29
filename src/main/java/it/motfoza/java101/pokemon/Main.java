@@ -15,10 +15,8 @@ public class Main {
 
 //        pokemon.takeAttack(1000);
 
-pokemon3.attack(pokemon);
-        pokemon3.attack(pokemon);
-        pokemon3.attack(pokemon);
-        pokemon3.attack(pokemon);
+        pokemon.attack(pokemon);
+        pokemon2.attack(pokemon);
 
         System.out.println(pokemon);
         System.out.println(pokemon2);
